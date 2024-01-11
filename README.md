@@ -6,6 +6,7 @@
   <img src="https://github.com/torbenwb/mc-gd1-unit-6/blob/main/readme-assets/u6-2.gif" width=320 height=240/>
 </div>
 
+[Playable WebGL Demo](https://torbenwb.github.io/mc-gd1-unit-6-webgl-build/)
 
 The *Alchemy Lab* project teaches students how to build a first-person interactive adventure / escape room. In this project students use the Unity C# Scripting API to build a first-person movement and camera system as well as an even-driven system for interactions and objectives.
 
